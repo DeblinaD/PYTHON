@@ -5,3 +5,5 @@ if (a.find(b))==-1:
     print("Not present")
 else:
     print("Available")
+
+  #this program woud have been done using 'in' operator. eg: b in a
